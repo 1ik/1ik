@@ -4,7 +4,7 @@ I’m a software engineer focused on building and operating reliable products us
 
 Most of my work involves production systems — backend services, scalable frontend applications, internal platforms, and observability.
 
-I work as a Software engingeering lead at Biniyog, a financial platform for stock market analysis and trading.
+I work as a Software engineering lead at Biniyog, a financial platform for stock market analysis and trading.
 Building with NestJS, Next.js, React, MongoDB, RabbitMQ, Redis, and Python.
 Focused on scalable systems, observability, and AI-powered products.
 
