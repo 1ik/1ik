@@ -27,4 +27,5 @@ Focused on scalable systems, observability, and AI-powered products.
 - GitHub: https://github.com/1ik  
 - LinkedIn: https://www.linkedin.com/in/anik-hsn  
 - Client work: https://www.upwork.com/freelancers/~01613ea6944e86eaee
+- [Resume](https://anikhasan.com/Anik_Hasan_Resume-SSE.pdf)
 
