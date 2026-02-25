@@ -11,7 +11,6 @@ Focused on scalable systems, observability, and AI-powered products.
 ---
 
 ## What I work on
-
 - Backend systems and APIs
 - Scalable frontend applications for data-driven products
 - Building applications within established design systems
@@ -22,10 +21,13 @@ Focused on scalable systems, observability, and AI-powered products.
 ---
 
 ## Find me
-
 - Website: https://anikhasan.com  
 - GitHub: https://github.com/1ik  
 - LinkedIn: https://www.linkedin.com/in/anik-hsn  
 - Client work: https://www.upwork.com/freelancers/~01613ea6944e86eaee
 - [Resume](https://anikhasan.com/Anik_Hasan_Resume-SSE.pdf)
 
+
+## Blogposts:
+- [One Design System, Many Brands: My 2026 Frontend Workflow
+](https://anikh.substack.com/p/one-design-system-many-brands-my) 
